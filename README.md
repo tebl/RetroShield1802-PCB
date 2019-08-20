@@ -4,6 +4,8 @@ Based on software and designs by Erturk Kocalar, this Arduino Mega 2560 shield a
 
 ![PCB Preview](https://github.com/tebl/RetroShield1802-PCB/raw/master/gallery/Retroshield1802-PCB.png)
 
+Initial version of PCB by Tor-Eirik Bakke Lunde, usually pushing files to [github.com/tebl](https://github.com/tebl).
+
 # Schematic
 The supplied KiCad files should be sufficient as both a schematic and as a  starting point for ordering PCBs (basically you could just zip the contents of the export folder and upload that on a fabrication site), the schematic is also available in [PDF-format](https://gitlab.com/8bitforce/retroshield1802/raw/master/docs/k1802_sch_revB.pdf?inline=false) and this is what you'll need to print and work your way through this things don't work as expected after assembly. Schematic as adapted for KiCad and basis for PCB layout, also available in [PDF-format](https://github.com/tebl/RetroShield1802-PCB/raw/master/export/Retroshield1802-PCB.pdf).
 
