@@ -1,4 +1,4 @@
-update=20/08/2019 16:37:25
+update=20/08/2019 17:11:28
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,13 @@ LibName32=valves
 LibName33=arduino
 LibName34=cdp1802
 LibName35=IIC_OLED
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=export/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

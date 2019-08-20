@@ -1252,4 +1252,8 @@ Wire Wire Line
 	2325 3150 1375 3150
 Wire Wire Line
 	1375 3150 1375 2725
+Text Notes 12200 10925 0    60   ~ 0
+RetroShield 1802 PCB
+Text Notes 11850 10475 0    60   ~ 0
+PCB made from the schematics provided by Erturk Kocalar, adds an 1802 processor to\nthe Arduino Mega 2560 allowing the user to run 1802-based software.\n\nFirmware and original source:\nhttps://gitlab.com/8bitforce/retroshield1802
 $EndSCHEMATC
