@@ -1,4 +1,4 @@
-update=18/08/2019 19:44:32
+update=20/08/2019 16:37:25
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -61,5 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=arduino
 LibName34=cdp1802
-[general]
-version=1
+LibName35=IIC_OLED
